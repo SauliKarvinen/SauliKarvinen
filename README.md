@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sauli! I'm 33 years old and it's my second year studying Business Information Technology in Karelia University of Applied Sciences.
-- 👀 I’m especially interested in web development (fullstack) and cyber security (absolute beginner) and I'm really keen on learning more all the time. 
+- 👀 I’m especially interested in web and mobile development (fullstack) and I'm really keen on learning more all the time. 
 - 🌱 I’m currently learning mostly web development using JS/React. Backend I've mostly done with JS/Node.js/Express but in my quite rare spare time I've been learning the basics of Kotlin/Spring combo. I've also started to learn mobile development usein React Native in my spare time.
 - 📫 How to reach me - Email: sauli.karvinen@edu.karelia.fi
 
